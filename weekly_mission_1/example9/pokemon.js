@@ -1,5 +1,3 @@
-// Here we go
-
 class Pokemon {
 
     // Constructor 
