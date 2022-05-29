@@ -1,5 +1,5 @@
 class FacebookUser{
-    constructor(firstName, lastName, friends, media){
+    constructor(firstName, lastName){
         this.firstName = firstName,
         this.lastName = lastName,
         this.friends = 0,
