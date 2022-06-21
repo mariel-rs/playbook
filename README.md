@@ -22,12 +22,18 @@ Repositorio para guardar las prácticas y proyectos de Launch X.
 |`my_launchx_app`|1|[Link](https://github.com/mariel-rs/my_launchx_app)|
 |`spiderverse`|2|[Link](https://github.com/mariel-rs/spiderverse)|
 |`twitter`|3, 4, 5|[Link](https://github.com/mariel-rs/twitter)|
-|`express_basic`|6|[Link](#)|
-|`express_api`|7|[Link](#)|
+|`express_basic`|6|[Link](https://github.com/mariel-rs/express_basic)|
+|`express_api`|7|[Link](https://github.com/mariel-rs/express_api)|
 
 ### Semana 4
 
-TBA
+| Proyecto | Práctica | Link al repo |
+| ------------- |:-------------:| -----:|
+|`fizzbuzz`|1|[Link](#)|
+|`PR`|2|[Link](#)|
+|`Code Challenge`|3, 4, 5|[Link](#)|
+|`Trello`|6|[Link](#)|
+|`Trello JS Fork`|7|[Link](#)|
 
 ### Semana 5
 
