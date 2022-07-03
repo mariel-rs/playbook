@@ -31,7 +31,7 @@ Repositorio para guardar las prácticas y proyectos de Launch X.
 | ------------- |:-------------:| :-----:|
 |`fizzbuzz`|1, 2, 3|[Link](https://github.com/mariel-rs/fizzbuzz/)|
 |`PR`|4|[Link](https://github.com/mariel-rs/fizzbuzz-1/)|
-|`Code Challenge`|5|[Link](#)|
+|`Code Challenge`|5|[Link](https://github.com/mariel-rs/visualthinking_api)|
 |`Trello`|6|[Link](#)|
 |`Trello JS Fork`|7|[Link](#)|
 
