@@ -41,4 +41,4 @@ Repositorio para guardar las prácticas y proyectos de Launch X.
 | ------------- |:-------------:| :-----:|
 |`Telegram Bot`|1|[Link](https://github.com/mariel-rs/telegram_bot)|
 |`Prisma DB`|2, 3|[Link](https://github.com/mariel-rs/prismadb)|
-|`Cliente Servidor`|4|[Link](#)|
+|`Cliente Servidor`|4|[Link](https://github.com/mariel-rs/client-launchx)|
